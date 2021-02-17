@@ -1,5 +1,3 @@
-# Course_Python2021
+This repository contains the exercises to be delivered for the course "Advanced Scientific Programming with Python". 
 
-This repository contains the exercises for the course "Advanced Scientific Programming with Python". 
-
-Also it icludes the final project for the completion of th course. 
+The folder "Project" includes the final project for the completion of the course. 
